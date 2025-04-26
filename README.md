@@ -1,3 +1,7 @@
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=3000&pause=500&color=9DC183&width=600&height=70&lines=Hiiiiiiii!!!;I'm+Nikolina+Pisarevic;Welcome+to+my+profile!!" />
+</h1>
+
 # 💫 About Me:
 🌍 I'm located in Bijelo Polje, Montenegro<br>🌱 I’m currently learning ReactJS
 
@@ -22,14 +26,16 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=npsvc&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npsvc&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=npsvc&theme=dark&bg_color=1f331e&title_color=98c379&text_color=abb2bf&icon_color=98c379&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npsvc&theme=dark&bg_color=1f331e&title_color=98c379&text_color=abb2bf&icon_color=98c379&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=npsvc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=npsvc&limit=5&theme=dark&bg_color=1f331e&title_color=98c379&text_color=abb2bf&icon_color=98c379&combine_all_yearly_contributions=true)
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=npsvc&icon=0&color=3)](https://visitcount.itsvg.in)
