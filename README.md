@@ -1,4 +1,7 @@
 <h1>
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=npsvc&label=♡+stalkers&color=9DC183&style=plastic"/>
+  </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=3000&pause=500&color=9DC183&width=600&height=70&lines=Hiiiiiiii!!!;I'm+Nikolina+Pisarevic;Welcome+to+my+profile!!" />
 </h1>
 
