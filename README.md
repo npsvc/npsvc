@@ -21,19 +21,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,nodejs,npm,php,vite,wordpress&theme=dark" />
 </p>
 
-## 📱 Mobile Apps
+## 📱 Mobile Apps & Under the Hood
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,java,c,eclipse&theme=dark" />
 </p>
 
 ## 🎮 Game Development
 <p>
   <img src="https://skillicons.dev/icons?i=godot&theme=dark" />
-</p>
-
-## 🛠 Under the Hood
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,eclipse&theme=dark" />
 </p>
 
 ## 🎨 Design & Creative Tools
