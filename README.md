@@ -1,3 +1,5 @@
+<!--prdnem ti pod nos-->
+
 <h1>
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=npsvc&label=♡+stalkers&color=9DC183&style=plastic"/>
@@ -13,31 +15,46 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikolina.pisarevic08@gmail.com)
 
 # 💻 Tech Stack:
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,c,css,eclipse,figma,flutter,godot,html,java,javascript,kotlin,nodejs,npm,php,photoshop,powershell,react,tailwindcss,vite,wordpress&theme=dark&perline=15" alt="My Skills" /></a>
 
+## 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,nodejs,npm,php,vite,wordpress&theme=dark" />
 </p>
 
-# 🐧 Honourable Mention:
+## 📱 Mobile Apps
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&theme=dark" />
+</p>
+
+## 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=godot&theme=dark" />
+</p>
+
+## 🛠 Under the Hood
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,eclipse&theme=dark" />
+</p>
+
+## 🎨 Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
+</p>
+
+## 🐧 Honourable Mention:
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,&theme=dark&perline=15" alt="My Skills" /></a><br>
 I use ubuntu btw :3
 </p>
 <div align="center">
   
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=npsvc&theme=dark&bg_color=1f331e&title_color=98c379&text_color=abb2bf&icon_color=98c379&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npsvc&theme=dark&bg_color=1f331e&title_color=98c379&text_color=abb2bf&icon_color=98c379&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+#
+<div align="center">
+  <a href="https://open.spotify.com/user/31f7hvteqzkcwn64rlzgpfcha3we">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31f7hvteqzkcwn64rlzgpfcha3we&width=1000" alt="Spotify recently played"  />
+  </a>
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=npsvc&limit=5&theme=dark&bg_color=1f331e&title_color=98c379&text_color=abb2bf&icon_color=98c379&combine_all_yearly_contributions=true)
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=npsvc&icon=0&color=3)](https://visitcount.itsvg.in)
 
 </div>
