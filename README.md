@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
 </p>
 
-## 🐧 Honourable Mention:
+## 🐧 Honourable Mention
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,&theme=dark&perline=15" alt="My Skills" /></a><br>
 I use ubuntu btw :3
