@@ -8,7 +8,7 @@
 </h1>
 
 # 💫 About Me:
-🌍 I'm located in Bijelo Polje, Montenegro<br>🌱 I’m currently learning ReactJS
+🌍 I'm located in Bijelo Polje, Montenegro<br>🌱 I’m currently learning Laravel!
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p1svc) 
